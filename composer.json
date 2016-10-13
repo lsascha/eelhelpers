@@ -8,12 +8,12 @@
     },
     "autoload": {
         "psr-0": {
-            "Lsascha\\EelHelpers": "Classes/"
+            "Lsascha\\Eel": "Classes/"
         }
     },
     "extra": {
         "neos": {
-            "package-key": "Lsascha.EelHelpers"
+            "package-key": "Lsascha.Eel"
         }
     }
 }
