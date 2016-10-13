@@ -1,4 +1,4 @@
 TYPO3:
   TypoScript:
     defaultContext:
-      'Lsascha.Eelhelper.Property': 'Lsascha\Eel\Helper\PropertyHelper'
+      'Lsascha.Eel.Property': 'Lsascha\Eel\Helper\PropertyHelper'
