@@ -1,0 +1,19 @@
+{
+    "name": "lsascha/eelhelpers",
+    "description": "Eel helper compilation",
+    "type": "neos-package",
+    "license": "GPL-3.0+",
+    "require": {
+        "typo3/neos": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Lsascha\\EelHelpers": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Lsascha.EelHelpers"
+        }
+    }
+}
